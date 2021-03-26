@@ -22,8 +22,6 @@ def radix_sort(arr):
         else:
             x = False
             break
-    # base_10[0].append("aa")
-    # print(base_10)
 
     for j in range(d):
         output = []
